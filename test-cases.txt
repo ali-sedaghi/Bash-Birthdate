@@ -1,0 +1,5 @@
+Inputs:
+bash script.sh 29,december,1999 sunday
+bash script.sh 10,july,1990 Sunday
+bash script.sh 26,october,2020 sunday
+bash script.sh 25,october,2020 sunday
